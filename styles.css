@@ -1,0 +1,20 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto:wght@700&display=swap" rel="stylesheet">
+.item1{
+    grid-column: 1 / 2;
+}
+.item2{
+    grid-column: 2 / 3;
+    text-align: center;
+    padding: 20% 0;
+    font-family: 'Playfair Display', serif;
+}
+#alap{
+    display: grid;
+    padding: 5% 10%;
+}
+.it1{
+    text-align: center;
+    padding: 0 10%;
+    font-family: 'Roboto', sans-serif;
+}
